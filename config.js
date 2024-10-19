@@ -11,7 +11,7 @@ import { en, es, id, ar, pt } from './lib/idiomas/total-idiomas.js'
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a ⋅.━━━━ ⊰  
 
 global.owner = [ 
-['595975740803', '𝙇𝙤𝙡𝙞𝘽𝙤𝙩-𝙈𝘿', true],
+['639709857984', '𝙇𝙤𝙡𝙞𝘽𝙤𝙩-𝙈𝘿', true],
 ['573183650526', '𝙇𝙤𝙡𝙞𝘽𝙤𝙩-𝙈𝘿', true],
 ['593968585383'],
 ['595992302861'],
@@ -19,8 +19,8 @@ global.owner = [
 ['19393231057'],
 ['5492266613038']]
 
-global.mods = ['50495745934'] 
-global.prems = ['972529277314'],  
+global.mods = ['639709857984'] 
+global.prems = ['639709857984'],  
   
 //⊱ ━━━━━.⋅ IDIOMA : LENGUAJE ⋅.━━━━ ⊰ 
 //Agrega el Idioma que quieres que tenga The-LoliBot-MD
@@ -28,7 +28,7 @@ global.prems = ['972529277314'],
 //  en = English         pt = Português 
 //  ar = عرب  
 
-global.lenguajeGB = es  //Idioma de The-LoliBot-MD, Ejemplo: es | en | pt...
+global.lenguajeGB = en  //Idioma de The-LoliBot-MD, Ejemplo: es | en | pt...
 
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
@@ -87,13 +87,13 @@ global.moment = moment
 
 //⊱ ━━━━━.⋅ Sticker WM ⋅.━━━━ ⊰
 
-global.packname = '𝙏𝙤𝙢𝙖 𝙩𝙪 𝙨𝙩𝙞𝙘𝙠𝙚𝙧'
-global.author = '𝙇𝙤𝙡𝙞𝘽𝙤𝙩-𝙈𝘿'
+global.packname = '𝙨𝙩𝙞𝙘𝙠𝙚𝙧 by'
+global.author = '𝙇uvLoner'
 
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
 global.vs = '1.4.9'
-global.lb = '𝙏𝙝𝙚 𝙇𝙤𝙡𝙞𝘽𝙤𝙩-𝙈𝘿'
+global.lb = '𝙇uvLoner-𝙈𝘿'
 global.yt = 'https://www.youtube.com/@TheLoliBot-MD'
 global.ig = 'https://www.tiktok.com/@thelolibot_md'
 global.md = 'https://github.com/elrebelde21/The-LoliBot-MD'
